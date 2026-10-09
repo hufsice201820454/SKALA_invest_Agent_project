@@ -1,2 +1,3 @@
 .env
 .rag_cache/
+__pycache__/
